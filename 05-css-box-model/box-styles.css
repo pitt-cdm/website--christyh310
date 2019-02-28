@@ -1,0 +1,55 @@
+/* to overrise pre-set CSS styles*/
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1, p {
+  background-color: #DDE0E3; /*light gray*/
+
+}
+
+h1{
+  padding: 50px;
+  text-align: center;
+  border-bottom: 1px solid #5D6063;
+}
+
+body {
+  text-align:center;
+}
+p{
+  padding: 20px 10px; /*vertical, horizontal*/
+
+  /*margins are spacing between the two sections*/
+  margin-bottom: 50px;
+  margin-top: 25px;
+}
+/*emphasis and strong elements will be light blue*/
+em, strong {
+  background-color: #B2D6FF;
+  /* in order to make the em and strong elements blocks
+  instead of inline elems*/
+  display: inline;
+}
+
+strong {
+  margin: 50px;
+}
+
+div {
+  color: #FFF;
+  background-color: #5995DA;
+  font-weight: bold;
+  padding: 20px;
+  text-align: center;
+  border: 2px solid $5D6063;
+  border-radius: 5px;
+  width: 200px;
+  /*this command means that the pixel size corresponds
+   to the outer border of the box, not the box content*/
+  box-sizing: border-box;
+  /*centers the button*/
+  margin: 20px auto;
+}
