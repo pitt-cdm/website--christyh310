@@ -24,6 +24,18 @@
   background-color: #F5CF8E;    /* Yellow */
 }
 
+.article-image{
+  float: left;
+  width: 300px;
+  height: 200px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+p {
+  margin-bottom: 20px;
+}
+
 .footer {
   clear: both;
   height: 200px;
@@ -40,4 +52,12 @@
 .container {
   overflow: hidden;
   background-color: #EAEDF0;
+}
+
+.column {
+  float: left;
+  width: 31%;
+  margin: 20px 1.15%;
+  height: 160px;
+  background-color: #B2D6FF;    /* Medium blue */
 }
