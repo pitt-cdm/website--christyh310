@@ -33,8 +33,20 @@ p {
   height: 500px;
   background-color: #192841;    /* Light grey */
   color: white;
+  float: right;
 }
 
+.sub-image{
+  float: left;
+  width: 300px;
+  height: 200px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+p {
+  margin-bottom: 20px;
+}
 .page{
 
   width: 900px;
