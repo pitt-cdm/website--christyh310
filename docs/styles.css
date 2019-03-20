@@ -10,6 +10,7 @@ p {
 
 }
 
+/*to create a menu navigation sidebar*/
 .sidebar {
   float: left;
   width:200px;
@@ -18,7 +19,8 @@ p {
 }
 
 .main {
-  float: left;
+  /*float: left;*/
+  display: flex;
   width: 650px;
   height: 500px;
   margin: 2em 0;
@@ -28,12 +30,14 @@ p {
   color:white;
 }
 
+/*to create bulk of text, user must scroll to read*/
 .text {
   clear: both;
-  height: 500px;
+  height: 700px;
   background-color: #192841;    /* Light grey */
   color: white;
   float: right;
+
 }
 
 .sub-image{
@@ -66,8 +70,14 @@ li{
 }
 
 .centered {
+
   position: absolute;
   top: 50%;
-  left: 35%;
+  left: 15%;
+  margin-bottom: 20px;
 
+}
+
+h1 {
+  margin-bottom: 20px;
 }
