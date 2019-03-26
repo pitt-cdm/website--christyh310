@@ -6,10 +6,12 @@ Where is the information that we need?
 
 CREDITS.md: to give credit to the template I used, per CC BY 3 license
 
-"":01-10, and “walking-toward-reconciliation” are completion of tutorials, and beginnings of website development without template
+"":01-10, and “docs_old” are completion of tutorials, and beginnings of website development without template
 REFLECTION.md: description of the process of creating this website
 
 Html5up-spectral.zip: folder where all the template files were stored before I moved and modified them
 
-CNH_modified_html5up-spectral: location of all the files you need to download and use to view my website
+CNH_modified_html5up-spectral: worked in this folder for most of the project
+
+docs: folder where all of the files (html and css, and images, etc) reside to be able to view my website
 
