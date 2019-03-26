@@ -1,4 +1,4 @@
-# Project 3: Website Portfolio
+# Project 3: "Walking Toward Reconciliation", Website Porfolio
 
 Hello! Our task in this unit is to **build a responsive website using basic html and css files** with multiple interlinking files, and understanding the affordances of the web design stack as a medium, and especially its ability to flexibly render content for multiple audiences or reading priorities.
 
