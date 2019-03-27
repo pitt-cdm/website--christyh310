@@ -49,8 +49,11 @@ This class defines what occurs when strong or b is typed in the html. When that 
 
 _Feedback_:
 One piece of feedback was to possibly link the pictures on the main page to other parts of my website. I decided not to implement this feature because there is already a clear navigation menu, and because the pictures/text on the main page are about the site, but not about each subpage, and so linking to them in those locations wouldn’t help with the flow of the site. 
+
 ![image](https://user-images.githubusercontent.com/46638612/55045685-ad5e9f80-500c-11e9-87b6-de29bdc98298.png)
+
 Another piece of feedback pointed out that some of my links between pages (mainly back to the Home (index.hmtl) page weren’t working. This was helpful, and because I only navigated away from the home page/got used to looking at it for a while, I wouldn’t have noticed this otherwise! Yay feedback! Also, this feedback mentioned changing the word “Spectral” to “Home” on the top left of the main page, so I did that, to and changed the side menu to match, so it looked more like my website, not the template.
+
 ![image](https://user-images.githubusercontent.com/46638612/55045695-b3ed1700-500c-11e9-9937-782499029b17.png)
 ![image](https://user-images.githubusercontent.com/46638612/55045699-b6e80780-500c-11e9-8be6-97a5981cac36.png)
 
