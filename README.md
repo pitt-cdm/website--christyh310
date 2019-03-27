@@ -15,3 +15,5 @@ CNH_modified_html5up-spectral: worked in this folder for most of the project
 
 docs: folder where all of the files (html and css, and images, etc) reside to be able to view my website
 
+REFLECTIONS.md : A file describing the process of creating my website, what I learned about html and css through the process!
+
